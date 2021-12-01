@@ -1,0 +1,6 @@
+a = input("Digite o primeiro numero:")
+s = input("Digite o segundo numero:")
+c = input("Digite o Terceiro")
+d = max(a,s,c)
+t = min(a,s,c)
+print(f"O maior numero digitado foi {d} e o menor numero ditado foi {t}")
